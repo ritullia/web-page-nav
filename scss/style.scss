@@ -1,6 +1,7 @@
 @import "about.scss";
 @import "contact.scss";
 @import "gallery.scss";
+@import "../scss/navigation.scss";
 
 *{
     margin: 0;
@@ -9,7 +10,7 @@
 }
 
 body {
-    background-color: darkgray;
+    background-color: rgb(231, 222, 222);
   
     #container{
         top: 0;
