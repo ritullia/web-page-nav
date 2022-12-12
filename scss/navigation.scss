@@ -1,8 +1,26 @@
-.bg-light {
-    background-color: #3f4253!important;
+#container {
+    padding: 20px;
+
+
+    .navbar-toggler:hover{
+        background-color: rgb(189, 207, 207);
+    }
+
+    .navbar-nav {
+
+        .nav-item:hover {
+            background-color: #ebe1e1;
+        }
+       
+
+        .nav-link{
+            color: #0b0c3d;
+        }
+        
+        .nav-link:hover {
+            color: #79095d;
+        }
+    }
 }
 
-.links {
-    color: #fff;
-}
 
